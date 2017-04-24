@@ -1,19 +1,17 @@
 This repository serves as the central place for storing design assets.
 
+The **Brand book** documents the visual identity of P2PU and serves as a guide for creating new resources.
 
 # Assets
 
- - Logo
  - Brand book
+ - Logo
  - T-shirt designs
-
-Note: the logo for the font is called "Princeton LET"
-
+ - Business cards
 
 # Things to add
 
  - Voice and tone
- - Business cards
  - Sticker designs
  - Fonts (or links if we can't distribute them)
 
