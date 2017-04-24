@@ -18,6 +18,10 @@ Note: the logo for the font is called "Princeton LET"
  - Fonts (or links if we can't distribute them)
 
 
-# A not on file formats
+# A note on file formats for printable assets
 
-Whenever new assets are created and added, the original file (source format) and the usable format should be include. Whenever possible, the source format should be an open file format (like svg) so that we can modify any assets if we need without requiring non-free software.
+Whenever new assets are created, the original file (source format) and a printable format are added to this repository.
+
+**Source files** are always included in an open file format (like SVG) so modifications can be made in the future without the need for non-free software. Text are kept as SVG text and all fonts that deviate from the Brandbook are noted.
+
+**Printable files** are saved as PDF with all fonts converted to paths.
