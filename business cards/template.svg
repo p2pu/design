@@ -418,13 +418,13 @@
      inkscape:window-height="1056"
      id="namedview3427"
      showgrid="false"
-     inkscape:zoom="5.6568544"
-     inkscape:cx="321.11188"
-     inkscape:cy="29.898724"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="395.27589"
+     inkscape:cy="69.376066"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showguides="true"
      inkscape:guide-bbox="true" /><g
      id="g3433"
@@ -1048,39 +1048,39 @@
 <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#555a69;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="218.26517"
+       x="210.48045"
        y="160.05481"
        id="text4552"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4554"
-         x="218.26517"
+         x="210.48045"
          y="160.05481"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Sense;-inkscape-font-specification:'Sense Light';fill:#555a69;fill-opacity:1">name@p2pu.org</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#555a69;fill-opacity:1">name@p2pu.org</tspan></text>
 <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#555a69;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="237.45462"
+       x="232.72166"
        y="175.80902"
        id="text4552-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4554-6"
-         x="237.45462"
+         x="232.72166"
          y="175.80902"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Sense;-inkscape-font-specification:'Sense Light';fill:#555a69;fill-opacity:1">p2pu.org</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#555a69;fill-opacity:1">p2pu.org</tspan></text>
 <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#555a69;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="221.57445"
+       x="214.7346"
        y="191.56323"
        id="text4552-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4554-5"
-         x="221.57445"
+         x="214.7346"
          y="191.56323"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Sense;-inkscape-font-specification:'Sense Light';fill:#555a69;fill-opacity:1">@twitterhandle</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#555a69;fill-opacity:1">@twitterhandle</tspan></text>
 <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#515665;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1196,7 +1196,8 @@
          sodipodi:role="line"
          id="tspan6300"
          x="43.840622"
-         y="18.49958">FRONT</tspan></text>
+         y="18.49958"
+         style="-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">FRONT</tspan></text>
 <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1207,5 +1208,6 @@
          sodipodi:role="line"
          id="tspan6304"
          x="350.72495"
-         y="17.792475">BACK</tspan></text>
+         y="17.792475"
+         style="-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">BACK</tspan></text>
 </g></svg>
