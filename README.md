@@ -11,10 +11,7 @@ The **Brand book** documents the visual identity of P2PU and serves as a guide f
 
 # Things to add
 
- - Voice and tone
  - Sticker designs
- - Fonts (or links if we can't distribute them)
-
 
 # A note on file formats for printable assets
 
